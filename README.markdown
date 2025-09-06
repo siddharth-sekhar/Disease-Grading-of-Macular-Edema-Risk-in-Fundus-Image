@@ -132,12 +132,7 @@ Contributions to improve the code, add missing functions (e.g., `detect_exudates
    ```
 5. Open a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. (Note: If no LICENSE file exists, contact the repository owner for clarification.)
 
-## References
-- Porwal, P., et al. (2018). "Indian Diabetic Retinopathy Image Dataset (IDRiD): A Database for Diabetic Retinopathy Screening Research." *IEEE Dataport*.
-- Giancardo, L., et al. (2012). "Exudate-based diabetic macular edema detection in fundus images using publicly available datasets." *Medical Image Analysis*.
 
 ## Contact
 For questions or issues, please open an issue on GitHub or contact the repository owner, [siddharth-sekhar](https://github.com/siddharth-sekhar).
